@@ -26,12 +26,6 @@
 - Cloud Learner (AWS Basics)  
 - Backend & AI Integration  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sasidharan-n" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge"/>
-  </a>
-</p>
-
 ---
 
 # Programming Languages
@@ -74,14 +68,10 @@
 
 ---
 
-# 🐍 Daily Activity (Snake Game)
+# 🐍 Daily Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sasi-04/sasi-04/output/snake-dark.svg" width="95%" />
-</p>
-
-<p align="center">
-  💡 Each square = a contribution day. The snake eats your commits!
+  <img src="https://raw.githubusercontent.com/sasi-04/SASIDHARAN_N/output/snake-dark.svg" width="95%" />
 </p>
 
 ---
@@ -95,6 +85,20 @@
 
 ---
 
+# 📬 Connect With Me
+
 <p align="center">
-"Think in data. Build with intelligence."
+  <a href="mailto:sasidharan.n.s54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sasidharan-n" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+"Nothing is Impossible."
 </p>
