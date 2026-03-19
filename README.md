@@ -74,14 +74,15 @@
 
 ---
 
-# Daily Activity (LeetCode-style Snake)
+# 🐍 Daily Activity (Snake Game)
 
 <p align="center">
-  <!-- Replace "snake-activity.gif" with your actual GIF file -->
-  <img src="snake-activity.gif" width="95%" alt="LeetCode Snake Activity" />
+  <img src="https://raw.githubusercontent.com/sasi-04/sasi-04/output/snake-dark.svg" width="95%" />
 </p>
 
-*💡 Each square = a day, the snake moves over active days (animated GIF).*
+<p align="center">
+  💡 Each square = a contribution day. The snake eats your commits!
+</p>
 
 ---
 
@@ -97,4 +98,3 @@
 <p align="center">
 "Think in data. Build with intelligence."
 </p>
-i need like this to show daily activity in my git as a snake game
